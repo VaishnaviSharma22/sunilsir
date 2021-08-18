@@ -1,0 +1,74 @@
+html {
+    background-color:#060606;
+    color:#F3F3F3
+}
+
+.banner {
+  background-color: #1B1B1B;
+  margin-top: 25px;
+  padding-top: 20px;
+  border-radius: 1em;
+  padding-left: 10px;
+  padding-bottom: 20px;
+  margin-left:10px;
+  display: flex;
+  flex-direction: column;
+}
+.main-container {
+    height: 80%;
+    margin-top: 40px;
+    display: flex;
+
+}
+.left-menu {
+    height: 100%; 
+    border-radius: 1em;
+    background-color: #1B1B1B;
+    margin-left:10px;
+    width: 20%;
+}
+
+.left-menu .active-menu {
+    background-color: blue;
+    color: white;
+    border-radius: 0.5em;
+    font-weight: normal;
+
+}
+
+.left-menu ul {
+    list-style-type:none;    
+}
+
+li a i {
+    padding: 0.8em;
+}
+.left-menu li {
+    background-color: none;
+    
+    color: white;
+    margin: 20px 0px;
+    font-size: 1.2em;
+}
+
+li:before {
+
+    display: inline-block;
+    margin-left: -1.3em; /* same as padding-left set on li */
+    width: 1.3em; /* same as padding-left set on li */
+  }
+
+li a:hover, a:visited, a:link, a:active
+{
+    text-decoration: none;
+    color: white;
+}
+
+.menuIcon {
+    margin-top: 5px;
+}
+.right-display {
+    margin: 10px;
+    width: 80%;
+}
+ul#nav li.active a { color: #f4ba51 ; }

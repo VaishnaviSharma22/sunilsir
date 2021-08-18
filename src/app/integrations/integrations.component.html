@@ -1,0 +1,21 @@
+<div class="integrations">
+    <h1 style="color: white;">
+        You have {{integrations.length}} systems that require your actions,
+        Follow the instructions and set up all required fields.
+    </h1>
+
+    <div class="card-container">
+            <button  (click)=" Onclick()" [style.background]="item['completion-status']? '#05240A': '#241908'" class="card" style="display: flex;" *ngFor="let item of integrations; let i = index">
+
+               <i *ngIf="item['completion-status']"  class="fa fa-check-circle" style="color:green" >
+                <span class="card-text">{{item["intrgration-name"]}}</span>
+              </i>
+
+              <i  *ngIf="!item['completion-status']" class="fa fa-question-circle" style="color:#FFA115">
+                <span class="card-text">{{item["intrgration-name"]}}</span>
+              </i>
+            </button>
+            
+    </div>
+
+</div>

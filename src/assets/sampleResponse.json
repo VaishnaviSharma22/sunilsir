@@ -1,0 +1,754 @@
+[
+	{
+		"intrgration-name": "LimaCharlie",
+		"completion-status": true,
+		"instructions": [{
+				"os-name": "Windows",
+				"icon-url": "www.google.com/Windows-icon-url",
+				"links": [{
+						"button-text": "32 bit",
+						"steps": [{
+								"step-number": "2",
+								"elements": [{
+										"type": "TITLE",
+										"data": "Download the apporipriate installer from the <a href=\"www.google.com/instlaler-link\">link</a>"
+									},
+									{
+										"type": "TEXT",
+										"data": "link: www.google.com"
+									},
+									{
+										"type": "Image",
+										"data": "http://www.google.com"
+									}
+								]
+							},
+							{
+								"step-number": "3",
+								"elements": [{
+									"type": "TITLE",
+									"data": "save the file (the ...)"
+								}]
+							},
+							{
+								"step-number": "4",
+								"elements": [{
+										"type": "TITLE",
+										"data": "Type cmd at the start menu..."
+									},
+									{
+										"type": "Image",
+										"data": "http://www.google.com"
+									}
+								]
+							},
+							{
+								"step-number": "5",
+								"elements": [{
+										"type": "TITLE",
+										"data": "Approve running admin"
+									},
+									{
+										"type": "Image",
+										"data": "http://www.google.com"
+									}
+								]
+							},
+							{
+								"step-number": "6",
+								"elements": [{
+										"type": "TITLE",
+										"data": "Change to the saved file folder ..."
+									},
+									{
+										"type": "TEXT",
+										"data": "!Don't forgot to chagnes ..."
+									},
+									{
+										"type": "Image",
+										"data": "http://www.google.com"
+									}
+								]
+							},
+							{
+								"step-number": "7",
+								"elements": [{
+										"type": "TITLE",
+										"data": "Run the following command"
+									},
+									{
+										"type": "COPYTEXT",
+										"data": "This is copy text"
+									}
+								]
+							},
+							{
+								"step-number": "8",
+								"elements": [{
+										"type": "TITLE",
+										"data": "<img src=\"www.ggolcom.com\"/>This is the screen ..."
+									},
+									{
+										"type": "Image",
+										"data": "http://www.google.com"
+									},
+									{
+										"type": "TEXT",
+										"data": "<a href=\"www.google.com/issuesLink.html\">View common issues?</a>"
+									},
+									{
+										"type": "TEXT",
+										"data": "Having trouble"
+									}
+								]
+							}
+						]
+					},
+					{
+						"button-text": "64 bit",
+						"steps": [{
+							"step-number": "2",
+							"elements": [{
+									"type": "TITLE",
+									"data": "Download the apporipriate installer from the <a href=\"www.google.com/instlaler-link\">link</a>"
+								},
+								{
+									"type": "TEXT",
+									"data": "link: www.google.com"
+								},
+								{
+									"type": "Image",
+									"data": "http://www.google.com"
+								}
+							]
+						}]
+					}
+				]
+			},
+			{
+				"os-name": "linux",
+				"icon-url": "www.google.com/linux-icon-url",
+				"links": [{
+					"button-text": "Download",
+					"steps": [{
+						"step-number": "2",
+						"elements": [{
+								"type": "TITLE",
+								"data": "Download the apporipriate installer from the <a href=\"www.google.com/instlaler-link\">link</a>"
+							},
+							{
+								"type": "TEXT",
+								"data": "link: www.google.com"
+							},
+							{
+								"type": "Image",
+								"data": "http://www.google.com"
+							}
+						]
+					}]
+				}]
+			},
+			{
+				"os-name": "ios",
+				"icon-url": "www.google.com/ios-icon-url",
+				"links": [{
+					"button-text": "Download",
+					"steps": [{
+						"step-number": "2",
+						"elements": [{
+								"type": "TITLE",
+								"data": "Download the apporipriate installer from the <a href=\"www.google.com/instlaler-link\">link</a>"
+							},
+							{
+								"type": "TEXT",
+								"data": "link: www.google.com"
+							},
+							{
+								"type": "Image",
+								"data": "http://www.google.com"
+							}
+						]
+					}]
+				}]
+			}
+
+		]
+	},
+	{
+		"intrgration-name": "Incapsula",
+		"completion-status": true,
+		"instructions": [{
+				"os-name": "Windows",
+				"icon-url": "www.google.com/Windows-icon-url",
+				"links": [{
+						"button-text": "32 bit",
+						"steps": [{
+								"step-number": "2",
+								"elements": [{
+										"type": "TITLE",
+										"data": "Download the apporipriate installer from the <a href=\"www.google.com/instlaler-link\">link</a>"
+									},
+									{
+										"type": "TEXT",
+										"data": "link: www.google.com"
+									},
+									{
+										"type": "Image",
+										"data": "http://www.google.com"
+									}
+								]
+							},
+							{
+								"step-number": "3",
+								"elements": [{
+									"type": "TITLE",
+									"data": "save the file (the ...)"
+								}]
+							},
+							{
+								"step-number": "4",
+								"elements": [{
+										"type": "TITLE",
+										"data": "Type cmd at the start menu..."
+									},
+									{
+										"type": "Image",
+										"data": "http://www.google.com"
+									}
+								]
+							},
+							{
+								"step-number": "5",
+								"elements": [{
+										"type": "TITLE",
+										"data": "Approve running admin"
+									},
+									{
+										"type": "Image",
+										"data": "http://www.google.com"
+									}
+								]
+							},
+							{
+								"step-number": "6",
+								"elements": [{
+										"type": "TITLE",
+										"data": "Change to the saved file folder ..."
+									},
+									{
+										"type": "TEXT",
+										"data": "!Don't forgot to chagnes ..."
+									},
+									{
+										"type": "Image",
+										"data": "http://www.google.com"
+									}
+								]
+							},
+							{
+								"step-number": "7",
+								"elements": [{
+										"type": "TITLE",
+										"data": "Run the following command"
+									},
+									{
+										"type": "COPYTEXT",
+										"data": "This is copy text"
+									}
+								]
+							},
+							{
+								"step-number": "8",
+								"elements": [{
+										"type": "TITLE",
+										"data": "<img src=\"www.ggolcom.com\"/>This is the screen ..."
+									},
+									{
+										"type": "Image",
+										"data": "http://www.google.com"
+									},
+									{
+										"type": "TEXT",
+										"data": "<a href=\"www.google.com/issuesLink.html\">View common issues?</a>"
+									},
+									{
+										"type": "TEXT",
+										"data": "Having trouble"
+									}
+								]
+							}
+						]
+					},
+					{
+						"button-text": "64 bit",
+						"steps": [{
+							"step-number": "2",
+							"elements": [{
+									"type": "TITLE",
+									"data": "Download the apporipriate installer from the <a href=\"www.google.com/instlaler-link\">link</a>"
+								},
+								{
+									"type": "TEXT",
+									"data": "link: www.google.com"
+								},
+								{
+									"type": "Image",
+									"data": "http://www.google.com"
+								}
+							]
+						}]
+					}
+				]
+			},
+			{
+				"os-name": "linux",
+				"icon-url": "www.google.com/linux-icon-url",
+				"links": [{
+					"button-text": "Download",
+					"steps": [{
+						"step-number": "2",
+						"elements": [{
+								"type": "TITLE",
+								"data": "Download the apporipriate installer from the <a href=\"www.google.com/instlaler-link\">link</a>"
+							},
+							{
+								"type": "TEXT",
+								"data": "link: www.google.com"
+							},
+							{
+								"type": "Image",
+								"data": "http://www.google.com"
+							}
+						]
+					}]
+				}]
+			},
+			{
+				"os-name": "ios",
+				"icon-url": "www.google.com/ios-icon-url",
+				"links": [{
+					"button-text": "Download",
+					"steps": [{
+						"step-number": "2",
+						"elements": [{
+								"type": "TITLE",
+								"data": "Download the apporipriate installer from the <a href=\"www.google.com/instlaler-link\">link</a>"
+							},
+							{
+								"type": "TEXT",
+								"data": "link: www.google.com"
+							},
+							{
+								"type": "Image",
+								"data": "http://www.google.com"
+							}
+						]
+					}]
+				}]
+			}
+
+		]
+	},
+	{
+		"intrgration-name": "ADGraph",
+		"completion-status": false,
+		"instructions": [{
+				"os-name": "Windows",
+				"icon-url": "www.google.com/Windows-icon-url",
+				"links": [{
+						"button-text": "32 bit",
+						"steps": [{
+								"step-number": "2",
+								"elements": [{
+										"type": "TITLE",
+										"data": "Download the apporipriate installer from the <a href=\"www.google.com/instlaler-link\">link</a>"
+									},
+									{
+										"type": "TEXT",
+										"data": "link: www.google.com"
+									},
+									{
+										"type": "Image",
+										"data": "http://www.google.com"
+									}
+								]
+							},
+							{
+								"step-number": "3",
+								"elements": [{
+									"type": "TITLE",
+									"data": "save the file (the ...)"
+								}]
+							},
+							{
+								"step-number": "4",
+								"elements": [{
+										"type": "TITLE",
+										"data": "Type cmd at the start menu..."
+									},
+									{
+										"type": "Image",
+										"data": "http://www.google.com"
+									}
+								]
+							},
+							{
+								"step-number": "5",
+								"elements": [{
+										"type": "TITLE",
+										"data": "Approve running admin"
+									},
+									{
+										"type": "Image",
+										"data": "http://www.google.com"
+									}
+								]
+							},
+							{
+								"step-number": "6",
+								"elements": [{
+										"type": "TITLE",
+										"data": "Change to the saved file folder ..."
+									},
+									{
+										"type": "TEXT",
+										"data": "!Don't forgot to chagnes ..."
+									},
+									{
+										"type": "Image",
+										"data": "http://www.google.com"
+									}
+								]
+							},
+							{
+								"step-number": "7",
+								"elements": [{
+										"type": "TITLE",
+										"data": "Run the following command"
+									},
+									{
+										"type": "COPYTEXT",
+										"data": "This is copy text"
+									}
+								]
+							},
+							{
+								"step-number": "8",
+								"elements": [{
+										"type": "TITLE",
+										"data": "<img src=\"www.ggolcom.com\"/>This is the screen ..."
+									},
+									{
+										"type": "Image",
+										"data": "http://www.google.com"
+									},
+									{
+										"type": "TEXT",
+										"data": "<a href=\"www.google.com/issuesLink.html\">View common issues?</a>"
+									},
+									{
+										"type": "TEXT",
+										"data": "Having trouble"
+									}
+								]
+							}
+						]
+					},
+					{
+						"button-text": "64 bit",
+						"steps": [{
+							"step-number": "2",
+							"elements": [{
+									"type": "TITLE",
+									"data": "Download the apporipriate installer from the <a href=\"www.google.com/instlaler-link\">link</a>"
+								},
+								{
+									"type": "TEXT",
+									"data": "link: www.google.com"
+								},
+								{
+									"type": "Image",
+									"data": "http://www.google.com"
+								}
+							]
+						}]
+					}
+				]
+			},
+			{
+				"os-name": "linux",
+				"icon-url": "www.google.com/linux-icon-url",
+				"links": [{
+					"button-text": "Download",
+					"steps": [{
+						"step-number": "2",
+						"elements": [{
+								"type": "TITLE",
+								"data": "Download the apporipriate installer from the <a href=\"www.google.com/instlaler-link\">link</a>"
+							},
+							{
+								"type": "TEXT",
+								"data": "link: www.google.com"
+							},
+							{
+								"type": "Image",
+								"data": "http://www.google.com"
+							}
+						]
+					}]
+				}]
+			},
+			{
+				"os-name": "ios",
+				"icon-url": "www.google.com/ios-icon-url",
+				"links": [{
+					"button-text": "Download",
+					"steps": [{
+						"step-number": "2",
+						"elements": [{
+								"type": "TITLE",
+								"data": "Download the apporipriate installer from the <a href=\"www.google.com/instlaler-link\">link</a>"
+							},
+							{
+								"type": "TEXT",
+								"data": "link: www.google.com"
+							},
+							{
+								"type": "Image",
+								"data": "http://www.google.com"
+							}
+						]
+					}]
+				}]
+			}
+
+		]
+	},
+	{
+		"intrgration-name": "CrowdStrike",
+		"completion-status": false,
+		"instructions": [{
+				"os-name": "Windows",
+				"icon-url": "www.google.com/Windows-icon-url",
+				"links": [{
+						"button-text": "32 bit",
+						"steps": [{
+								"step-number": "2",
+								"elements": [{
+										"type": "TITLE",
+										"data": "Download the apporipriate installer from the <a href=\"www.google.com/instlaler-link\">link</a>"
+									},
+									{
+										"type": "TEXT",
+										"data": "link: www.google.com"
+									},
+									{
+										"type": "Image",
+										"data": "http://www.google.com"
+									}
+								]
+							},
+							{
+								"step-number": "3",
+								"elements": [{
+									"type": "TITLE",
+									"data": "save the file (the ...)"
+								}]
+							},
+							{
+								"step-number": "4",
+								"elements": [{
+										"type": "TITLE",
+										"data": "Type cmd at the start menu..."
+									},
+									{
+										"type": "Image",
+										"data": "http://www.google.com"
+									}
+								]
+							},
+							{
+								"step-number": "5",
+								"elements": [{
+										"type": "TITLE",
+										"data": "Approve running admin"
+									},
+									{
+										"type": "Image",
+										"data": "http://www.google.com"
+									}
+								]
+							},
+							{
+								"step-number": "6",
+								"elements": [{
+										"type": "TITLE",
+										"data": "Change to the saved file folder ..."
+									},
+									{
+										"type": "TEXT",
+										"data": "!Don't forgot to chagnes ..."
+									},
+									{
+										"type": "Image",
+										"data": "http://www.google.com"
+									}
+								]
+							},
+							{
+								"step-number": "7",
+								"elements": [{
+										"type": "TITLE",
+										"data": "Run the following command"
+									},
+									{
+										"type": "COPYTEXT",
+										"data": "This is copy text"
+									}
+								]
+							},
+							{
+								"step-number": "8",
+								"elements": [{
+										"type": "TITLE",
+										"data": "<img src=\"www.ggolcom.com\"/>This is the screen ..."
+									},
+									{
+										"type": "Image",
+										"data": "http://www.google.com"
+									},
+									{
+										"type": "TEXT",
+										"data": "<a href=\"www.google.com/issuesLink.html\">View common issues?</a>"
+									},
+									{
+										"type": "TEXT",
+										"data": "Having trouble"
+									}
+								]
+							}
+						]
+					},
+					{
+						"button-text": "64 bit",
+						"steps": [{
+							"step-number": "2",
+							"elements": [{
+									"type": "TITLE",
+									"data": "Download the apporipriate installer from the <a href=\"www.google.com/instlaler-link\">link</a>"
+								},
+								{
+									"type": "TEXT",
+									"data": "link: www.google.com"
+								},
+								{
+									"type": "Image",
+									"data": "http://www.google.com"
+								}
+							]
+						}]
+					}
+				]
+			},
+			{
+				"os-name": "linux",
+				"icon-url": "www.google.com/linux-icon-url",
+				"links": [{
+					"button-text": "Download",
+					"steps": [{
+						"step-number": "2",
+						"elements": [{
+								"type": "TITLE",
+								"data": "Download the apporipriate installer from the <a href=\"www.google.com/instlaler-link\">link</a>"
+							},
+							{
+								"type": "TEXT",
+								"data": "link: www.google.com"
+							},
+							{
+								"type": "Image",
+								"data": "http://www.google.com"
+							}
+						]
+					}]
+				}]
+			},
+			{
+				"os-name": "ios",
+				"icon-url": "www.google.com/ios-icon-url",
+				"links": [{
+					"button-text": "Download",
+					"steps": [{
+						"step-number": "2",
+						"elements": [{
+								"type": "TITLE",
+								"data": "Download the apporipriate installer from the <a href=\"www.google.com/instlaler-link\">link</a>"
+							},
+							{
+								"type": "TEXT",
+								"data": "link: www.google.com"
+							},
+							{
+								"type": "Image",
+								"data": "http://www.google.com"
+							}
+						]
+					}]
+				}]
+			}
+
+		]
+	},
+	{
+		"intrgration-name": "eset",
+		"completion-status": false,
+		"instructions": [{
+				"os-name": "linux",
+				"icon-url": "www.google.com/linux-icon-url",
+				"links": [{
+					"button-text": "Download",
+					"steps": [{
+						"step-number": "2",
+						"elements": [{
+								"type": "TITLE",
+								"data": "Download the apporipriate installer from the <a href=\"www.google.com/instlaler-link\">link</a>"
+							},
+							{
+								"type": "TEXT",
+								"data": "link: www.google.com"
+							},
+							{
+								"type": "Image",
+								"data": "http://www.google.com"
+							}
+						]
+					}]
+				}]
+			},
+			{
+				"os-name": "ios",
+				"icon-url": "www.google.com/ios-icon-url",
+				"links": [{
+					"button-text": "Download",
+					"steps": [{
+						"step-number": "2",
+						"elements": [{
+								"type": "TITLE",
+								"data": "Download the apporipriate installer from the <a href=\"www.google.com/instlaler-link\">link</a>"
+							},
+							{
+								"type": "TEXT",
+								"data": "link: www.google.com"
+							},
+							{
+								"type": "Image",
+								"data": "http://www.google.com"
+							}
+						]
+					}]
+				}]
+			}
+
+		]
+	}
+]

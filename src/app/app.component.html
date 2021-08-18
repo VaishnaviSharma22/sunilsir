@@ -1,0 +1,34 @@
+<div style="width:98%; height:98% ; background-color: black;">
+  <div class="banner">
+    <img src="../assets/logo.png" alt="logo" style="  align-self: flex-start;"/>
+    <i class="fa fa-bell" aria-hidden="true"style="align-self: flex-end;"></i>
+  </div>
+  <div class="main-container">
+    <div class="left-menu" style="width: 30%;">
+      <ul >
+        <li class=" list-style-type: none;">
+          <a [routerLink]="'/dashboard'"  routerLinkActive="active-menu">
+            <i class="fa fa-table" aria-hidden="true">&nbsp;Dashboard</i>
+          </a>
+        </li>
+        <li>
+          <a  [routerLink]="'/integrations'" routerLinkActive="active-menu">
+            <i class="fa fa-tools" aria-hidden="true">&nbsp;Integrations</i>
+          </a></li>
+        <li>
+          <a [routerLink]="'/filesharing'" routerLinkActive="active-menu">
+            <i class="fas fa-share-alt-square">&nbsp;File Sharing</i></a>
+        </li>
+        <li>
+          <a [routerLink]="'/secrets'" routerLinkActive="active-menu">
+            <i class="fas fa-share-alt-square">&nbsp;Secrets</i>
+          </a>
+        </li>
+      </ul>
+    </div>
+    <div class="right-display">
+      <router-outlet></router-outlet>
+    </div>
+  </div>
+</div>
+
